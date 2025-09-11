@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Renato Madeia Muiambo
 
-**`Senior Full Stack Developer`**
+**`Full Stack Developer`**
 
 Professional with solid experience in end-to-end systems development — from desktop applications (Java, C#) to RESTful APIs and modern web solutions (ASP.NET Core, Spring Boot, Node.js), with dynamic interfaces in Angular and React. I also work with full-stack development in Python (Django) and PHP (Laravel), always focusing on **architecture, scalability, and code maintainability**. I use Docker to ensure standardized environments and agile deployments. My expertise also includes **database administration** — SQL Server, Oracle, PostgreSQL, MySQL, and MongoDB — ensuring performance, security, and integrity in critical environments. Practical experience with **agile methodologies (Scrum)**, delivering value continuously, collaboratively, and results-oriented.
 
