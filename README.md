@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Renato Madeia Muiambo
 
-**`Senior Full Stack Developer | System Architecture | DevOps | Scrum`**
+**`Full Stack Developer`**
 
 Professional with solid experience in end-to-end systems development — from desktop applications (Java, C#) to RESTful APIs and modern web solutions (ASP.NET Core, Spring Boot, Node.js), with dynamic interfaces in Angular and React. I also work with full-stack development in Python (Django) and PHP (Laravel), always focusing on **architecture, scalability, and code maintainability**. I use Docker to ensure standardized environments and agile deployments. My expertise also includes **database administration** — SQL Server, Oracle, PostgreSQL, MySQL, and MongoDB — ensuring performance, security, and integrity in critical environments. Practical experience with **agile methodologies (Scrum)**, delivering value continuously, collaboratively, and results-oriented.
 
@@ -66,7 +66,5 @@ Professional with solid experience in end-to-end systems development — from de
 
 > 📩 **Let’s work together?**  
 > I’m open to new challenges, strategic projects, and consulting opportunities.  
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-madeia-muiambo-a5229014b)  
-> [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://renatomadeiamuiamboportfolio.pythonanywhere.com)  
-> [![Resume](https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://example.com/renato-resume.pdf)  
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-madeia-muiambo-a5229014b) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://renatomadeiamuiamboportfolio.pythonanywhere.com) [![Resume](https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://example.com/renato-resume.pdf)  
 > ✉️ [renatomuiambo24@gmail.com](mailto:renatomuiambo24@gmail.com)
