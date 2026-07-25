@@ -5,28 +5,6 @@
 Professional with solid experience in end-to-end software engineering and cloud-native solutions. I bridge the gap between application development — from robust RESTful APIs (Spring Boot, ASP.NET Core, Node.js, Django, Laravel) to modern web interfaces (React, Angular) — and scalable infrastructure. My practice focuses on **DevOps culture, GitOps workflows, container orchestration (Kubernetes, Docker), and Infrastructure as Code (Terraform, Ansible)** on AWS. Proven track record in relational and non-relational **database management** (PostgreSQL, SQL Server, MySQL), ensuring high availability, performance, and security across critical environments. Driven by agile practices (Scrum) to deliver continuous, reliable value.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=thinnugly&show_icons=true&theme=tokyonight&include_all_commits=true" 
-    style="margin-right: 15px;" 
-  />
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinnugly&theme=tokyonight&layout=compact&langs_count=9" 
-  />
-  <br clear="left"/>
-</p>
-
----
-
 ### ☁️ Cloud, DevOps & GitOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
@@ -50,10 +28,6 @@ Professional with solid experience in end-to-end software engineering and cloud-
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
@@ -77,5 +51,5 @@ Professional with solid experience in end-to-end software engineering and cloud-
 
 > 📩 **Let’s work together?**  
 > I’m open to new challenges, strategic projects, and consulting opportunities.  
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-madeia-muiambo-a5229014b) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://renatomuiambo.portfolio.devwn.pics/)  
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatomadeiamuiambo) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://renatomuiambo.portfolio.devwn.pics/)  
 > ✉️ [renatomuiambo24@gmail.com](mailto:renatomuiambo24@gmail.com)
