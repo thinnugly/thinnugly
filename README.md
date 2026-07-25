@@ -1,8 +1,8 @@
 # 👨🏾‍💻 Renato Madeia Muiambo
 
-**`Full Stack & DevOps Engineer`**
+**`Backend & DevOps Engineer`**
 
-Professional with solid experience in end-to-end software engineering and cloud-native solutions. I bridge the gap between application development — from robust RESTful APIs (Spring Boot, ASP.NET Core, Node.js, Django, Laravel) to modern web interfaces (React, Angular) — and scalable infrastructure. My practice focuses on **DevOps culture, GitOps workflows, container orchestration (Kubernetes, Docker), and Infrastructure as Code (Terraform, Ansible)** on AWS. Proven track record in relational and non-relational **database management** (PostgreSQL, SQL Server, MySQL), ensuring high availability, performance, and security across critical environments. Driven by agile practices (Scrum) to deliver continuous, reliable value.
+Professional with solid experience in end-to-end software engineering and cloud-native solutions. I specialize in backend development — building robust, high-performance RESTful APIs (Spring Boot, Node.js, Django) — and scaling backend infrastructure. My practice focuses on DevOps culture, GitOps workflows, container orchestration (Kubernetes, Docker), and Infrastructure as Code (Terraform, Ansible) on AWS. Proven track record in relational and non-relational database management (PostgreSQL, SQL Server, MySQL, MongoDB), ensuring high availability, performance, and security across critical environments. Driven by agile practices (Scrum) to deliver continuous, reliable value.
 
 ---
 ### ☁️ Cloud, DevOps & GitOps
