@@ -66,5 +66,5 @@ Professional with solid experience in end-to-end systems development — from de
 
 > 📩 **Let’s work together?**  
 > I’m open to new challenges, strategic projects, and consulting opportunities.  
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-madeia-muiambo-a5229014b) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://renatomadeiamuiamboportfolio.pythonanywhere.com) [![Resume](https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://example.com/renato-resume.pdf)  
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-madeia-muiambo-a5229014b) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://renatomuiambo.portfolio.devwn.pics/) [![Resume](https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://example.com/renato-resume.pdf)  
 > ✉️ [renatomuiambo24@gmail.com](mailto:renatomuiambo24@gmail.com)
